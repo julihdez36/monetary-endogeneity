@@ -19,3 +19,7 @@ Este artículo investiga empíricamente la hipótesis de la endogeneidad monetar
 ## Palabras claves
 
 Endogeneidad monetaria, VAR, causalidad de Granger, política monetaria, banca central.
+
+---
+
+**Preliminary publication:** international conference ASCOLFA: [enlace](https://editorial.com.co/ascolfa/index.php/memorias/article/download/99/94/179).
